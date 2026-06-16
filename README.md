@@ -27,3 +27,4 @@ Because there are 3 Major bugs and a 42.9% failure rate, my recommendation is to
 If you want to talk about my project, you can contact me:
 * Email: [chengelberg5@gmail.com]
 * LinkedIn: [הכנס קישור ללינקדאין שלך כאן]
+* STD + STR : https://docs.google.com/spreadsheets/d/1hyQd9e5ZqqW8ESQj2zMeC5DfTsTjhn26vs7qZmtezZU/edit?gid=180310022#gid=180310022
